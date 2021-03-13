@@ -1,4 +1,5 @@
 # Whiskey Sour and simple syrup
+*I recommend using Jameson Triple Distilled Irish Whiskey, but any whiskey without smoky tones works. For a non-alcoholic version, the whiskey can be replaced by a teaspoon of vanilla extract and some water. The instructions also call for a shaker, but a shaker can be replaced by e.g. a plastic container with a lid.*
 
 ## Simple syrup
 
@@ -17,5 +18,3 @@ You are done. Simple syrup can be stored in the fridge forever.
 
 1. Put a few pieces of ice in a shaker. Measure up all ingredients in the shaker. Shake vigorously.
 2. Put a few pieces of ice in a glass. Strain contents of shaker into the glass.
-
-*I recommend using Jameson Triple Distilled Irish Whiskey, but any whiskey without smoky tones works. For a non-alcoholic version, the whiskey can be replaced by a teaspoon of vanilla extract and some water. The instructions also call for a shaker, but a shaker can be replaced by e.g. a plastic container with a lid.*
