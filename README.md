@@ -11,7 +11,7 @@
 You are done. Simple syrup can be stored in the fridge forever.
 
 ## Whiskey Sour
-* 2 parts whiskey (4 cl or 1,5 fluid ounces of whiskey will make one drink)
+* 2 parts whiskey (4 cl or 1.5 fluid ounces of whiskey will make one drink)
 * 1 part lemon juice
 * 1 part simple syrup
 * ice
